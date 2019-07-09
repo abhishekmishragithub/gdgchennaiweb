@@ -20,3 +20,7 @@ The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) te
 | **SEO optimized** | index all content and get to the top in search results |
 | **Easy in management** | keep and update all information in the JSON File |
 
+## Quick Start
+1. Install project dependencies: `npm install`
+2. To run project: `npm run serve`
+3. For production: `npm run build`
