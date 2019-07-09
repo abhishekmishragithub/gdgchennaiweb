@@ -1,11 +1,8 @@
 # GDG Chennai
-
-
+ 
 <img width="100%" src="https://github.com/abhishekmishragithub/gdgdata/blob/master/GDGChennai.PNG?raw=true">
 
-
-[Visit](https://gdgchennai.in/) <br>
-Version: 1.0.5
+[Visit Site](https://gdgchennai.in/) <br>
 
 ## Overview
 
