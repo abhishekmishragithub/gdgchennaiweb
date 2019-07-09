@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Saikiran S.",
+        "designation":"Volunteer + Host",
+        "twitter":"https://twitter.com/sai_sondarkar/",
+        "linkedin":"https://www.linkedin.com/",
+        "github":"https://github.com/sai-sondarkar",
+        "profileImage":"sai.png",
+        "website":""
+    },
+    {
+        "name":"Teja K.",
+        "designation":"Volunteer",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/tejakummarikuntla/",
+        "github":"https://github.com/tejakummarikuntla",
+        "profileImage":"teja.png",
+        "website":""
+    },
+    {
+        "name":"Syed Rafi",
+        "designation":"Volunteer",
+        "twitter":"https://twitter.com/syed_rafi_naqvi/",
+        "linkedin":"https://www.linkedin.com/in/syed-rafi-naqvi-28566bb1/",
+        "github":"https://github.com/SYED-RAFI-NAQVI/",
+        "profileImage":"rafi.png",
+        "website":""
+    },
+    {
+        "name":"Shangeeth ",
+        "designation":"Volunteer",
+        "twitter":"https://twitter.com/shivthepro",
+        "linkedin":"https://www.linkedin.com/in/shivthepro/",
+        "github":"https://github.com/shivthepro/",
+        "profileImage":"shangeeth.png",
+        "website":""
+    },
+    {
+        "name":"Karan G.",
+        "designation":"Volunteer",
+        "twitter":"https://twitter.com/karanganesan",
+        "linkedin":"https://www.linkedin.com/in/karanganesan/",
+        "github":"https://github.com/karanganesan",
+        "profileImage":"karan.png",
+        "website":"https://karan.pro/"
+    }
+]

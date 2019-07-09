@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Varun Raj",
+        "designation":"Community Organizer",
+        "twitter":"https://twitter.com/zathvarun",
+        "linkedin":"https://in.linkedin.com/in/varunrajm",
+        "github":"https://github.com/varun-raj",
+        "profileImage":"varun.png",
+        "website":"https://www.varunraj.in/"
+    },
+    {
+        "name":"Somasundaram M.",
+        "designation":"Co-organizer",
+        "twitter":"https://twitter.com/msomu",
+        "linkedin":"https://in.linkedin.com/in/msomu",
+        "github":"https://github.com/msomu",
+        "profileImage":"somu.png",
+        "website":"http://msomu.in/"
+    },
+    {
+        "name":"Abhishek Mishra",
+        "designation":"Co-organizer",
+        "twitter":"https://twitter.com/stalwartcoder",
+        "linkedin":"https://www.linkedin.com/in/abhishekmishra2308",
+        "github":"https://github.com/abhishekmishragithub",
+        "profileImage":"abhishek.png",
+        "website":""
+    },
+    {
+        "name":"Nivetha Maran",
+        "designation":"WTM Lead",
+        "twitter":"https://twitter.com/NivethaMaran",
+        "linkedin":"https://www.linkedin.com/in/nivetha-maran-54959b110/",
+        "github":"https://github.com/NivethaMaran",
+        "profileImage":"nivetha.png",
+        "website":""
+    },
+    {
+        "name":"Swaathi Kakarla",
+        "designation":"WTM Co-lead",
+        "twitter":"https://twitter.com/vrijrajsingh",
+        "linkedin":"https://www.linkedin.com/in/swaathi/",
+        "github":"https://github.com/swaathi",
+        "profileImage":"swaathi.png",
+        "website":"https://swaathi.com/"
+    },
+    {
+        "name":"Bhavani Ravi",
+        "designation":"WTM Co-lead",
+        "twitter":"https://twitter.com/geeky_bhavani",
+        "linkedin":"https://www.linkedin.com/in/bhavanir/",
+        "github":"https://github.com/bhavaniravi",
+        "profileImage":"bhavani.png",
+        "website":"https://bhavaniravi.com/"
+    }
+]

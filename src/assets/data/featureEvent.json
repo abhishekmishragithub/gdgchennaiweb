@@ -1,0 +1,21 @@
+{
+    "FeatureEventName":"Firebase Roadshow Chennai",
+    "EventImage":"firebase.png",
+    "EventDate":{
+        "Date":"23",
+        "Month":"6",
+        "Year":"2019"
+    },
+    "EventTime":{
+        "StartTime":"09:15 AM",
+        "EndTime":"02:15 PM"
+    },
+    "EventVenue":"ThoughtWorks Technologies",
+    "EventVenueMapLink":"https://goo.gl/maps/k3hD8Pv5hEDv1Wjc7",
+    "EventWebsite":"https://gdgchennai.com/",
+    "EventDescription":"A Complete Firebase event with the Official Team in our city. The engineering team behind Firebase, one of the most popular mobile/web app dev platforms is travelling to India. They will talk about how to do data modelling, crash analysis & prevention, user rentention/engagement & new features !",
+    "MeetupLink":"https://www.meetup.com/GDGChennai/events/261485829/",
+    "RegistrationLink":"https://forms.gle/fGfQs3ijkBhujB6p7",
+    "FBEventPageURL":"/"
+}
+

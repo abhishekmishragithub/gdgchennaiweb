@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Venue Sponsor",
+        "link":"https://www.thoughtworks.com/",
+        "img":"thoughtworks.png"
+    },
+    {
+        "name":"F&B + Venue Sponsor",
+        "link":"https://www.qubecinema.com/",
+        "img":"qube.png"
+    },
+    {
+        "name":"F&B Sponsor",
+        "link":"https://about.google/intl/en/",
+        "img":"google.png"
+    }
+]
